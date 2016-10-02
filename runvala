@@ -1,0 +1,2 @@
+#!/bin/bash
+valac --pkg gtk+-3.0 --pkg webkit2gtk-4.0 --pkg libnotify --thread ./vala/main.vala -o ./bin/theprayer && cp ./theprayer.desktop $HOME/.local/share/applications && cd ./bin && ./theprayer

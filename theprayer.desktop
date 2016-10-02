@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=The Prayer
+Comment=
+Exec=sh -c "cd /home/naheel/Projects/Web/ThePrayerWeb/gjs && gjs ./main.js"
+Icon=/home/naheel/Projects/Web/ThePrayerWeb/res/ic_launcher.png
+Terminal=false
+Categories=
